@@ -72,6 +72,6 @@ An interesting observation from the above representation is that for wines of qu
 
 Shiny link:
 
-hhttps://shs855.shinyapps.io/Shiny_DVS_Project1
+https://shs855.shinyapps.io/Shiny_DVS_Project1
 
 

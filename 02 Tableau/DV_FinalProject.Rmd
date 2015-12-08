@@ -68,3 +68,10 @@ Is it also interesting to note that the higher the Citric Acid content, the lowe
 To produce the above barchart, we start with dragging the Volatile Acidity measure to the Columns row, and the Quality dimension to the Rows row.
 
 An interesting observation from the above representation is that for wines of quality (which is determined based on the wine's smell, density, balance and depth) 5, 6 and 7, there is a higher concentration of samples in the lower volatile acidity range. That goes to say that a greater number of wines with quality 5, 6, and 7 and low volatile acidity exist, as compared to wines with other qualities. Wines of other qualities tend to have a more evenly distributed representation on the volatile acidity scale. 
+
+
+Shiny link:
+
+hhttps://shs855.shinyapps.io/Shiny_DVS_Project1
+
+
